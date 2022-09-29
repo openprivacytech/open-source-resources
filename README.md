@@ -1,4 +1,4 @@
-# Open Source 101
+# Welcome to Open Source 101
 
 ## History
 - [History of free and open-source software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
