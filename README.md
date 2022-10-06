@@ -10,3 +10,7 @@
 ## License
 
 - [Open Source Licenses by Category](https://opensource.org/licenses/category)
+
+## People
+
+- [Faces of Open Source](https://www.facesofopensource.com/)
