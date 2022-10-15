@@ -7,6 +7,10 @@
 - [The Evolution of Open Source and Social Activism](https://www.youtube.com/watch?v=pPsE1H1WuCw&list=PL8w0M4fNcdiBjWC5yamhB4g61ytByQ_wT)
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 
+# Courses
+
+- 
+
 ## License
 
 - [Open Source Licenses by Category](https://opensource.org/licenses/category)
