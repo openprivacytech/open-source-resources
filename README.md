@@ -9,8 +9,8 @@
 
 # Courses
 
-- 
-- 
+- [Version Control with Git (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Version Control with Git (Coursera)](https://www.coursera.org/learn/version-control-with-git)
 
 ## License
 
@@ -19,3 +19,31 @@
 ## People
 
 - [Faces of Open Source](https://www.facesofopensource.com/)
+
+**Git:**
+
+- [Documentation](https://git-scm.com/docs)
+- [Become a git guru](https://www.atlassian.com/git/tutorials)
+- [Learn Git](https://www.atlassian.com/git/tutorials/install-git)
+
+**GitHub:**
+
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Resources to learn Git](https://try.github.io/)
+- [GitHub Guides](https://guides.github.com/)
+
+**Youtube:**
+
+- [GitHub Training & Guides](https://www.youtube.com/githubguides)
+
+**Blogs:**
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [The beginner’s guide to Git & GitHub (freeCodeCamp) ](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [The Best Git Tutorials (freeCodeCamp)](https://www.freecodecamp.org/news/best-git-tutorial/)
+
+**CHEAT SHEET:**
+
+- [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GIT CHEAT SHEET 2](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [GIT CHEAT SHEET(atlassian)](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
