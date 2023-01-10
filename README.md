@@ -1,4 +1,4 @@
-# Welcome to Open Source 101
+# Welcome to Open Source Resources 
 
 ## History
 
