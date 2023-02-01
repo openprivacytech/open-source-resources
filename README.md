@@ -11,6 +11,7 @@
 
 - [Version Control with Git (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Version Control with Git (Coursera)](https://www.coursera.org/learn/version-control-with-git)
+- [Open Source Software Development Methods](https://in.coursera.org/learn/open-source-software-development-methods)
 
 ## License
 
