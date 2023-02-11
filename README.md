@@ -7,7 +7,7 @@
 - [The Evolution of Open Source and Social Activism](https://www.youtube.com/watch?v=pPsE1H1WuCw&list=PL8w0M4fNcdiBjWC5yamhB4g61ytByQ_wT)
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 
-# Courses
+## Courses
 
 - [Version Control with Git (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Version Control with Git (Coursera)](https://www.coursera.org/learn/version-control-with-git)
