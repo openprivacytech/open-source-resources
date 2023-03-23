@@ -49,4 +49,4 @@
 - [GIT CHEAT SHEET 2](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [GIT CHEAT SHEET(atlassian)](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-*Open Source Organizations*
+**Open Source Organizations**
