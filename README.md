@@ -1,4 +1,4 @@
-# Awesome Open Source Resources for you 
+# Awesome Open Source Resources
 
 ## History
 
