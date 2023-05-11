@@ -48,7 +48,7 @@
 - [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GIT CHEAT SHEET 2](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [GIT CHEAT SHEET(atlassian)](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
+Learn Open Source Management
+
+- TODO Group
