@@ -51,4 +51,3 @@
 
 Learn Open Source Management
 
-- TODO Group
